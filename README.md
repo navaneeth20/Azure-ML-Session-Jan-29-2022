@@ -1,10 +1,13 @@
 # Azure-ML-Session-Jan-29-2022
 
-Details
-• Azure Cognitive services - Entity extraction
+Details:
+===========================
+• Azure Cognitive services
+• Entity extraction
 • Sentiment Analysis
 • Language Detection
 • Resources/Next steps
+• Power BI integration
 
 Use case and Demo details:
 ===========================
